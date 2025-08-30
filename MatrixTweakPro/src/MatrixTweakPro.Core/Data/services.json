@@ -1,0 +1,5 @@
+[
+  { "name": "SysMain", "displayName": "SysMain", "safeStartType": "Manual", "rationale": "Reduce disk usage", "risk": "Medium" },
+  { "name": "DiagTrack", "displayName": "Connected User Experiences", "safeStartType": "Manual", "rationale": "Telemetry", "risk": "Low" },
+  { "name": "XboxNetApiSvc", "displayName": "Xbox Networking Service", "safeStartType": "Manual", "rationale": "Xbox services", "risk": "Low" }
+]

@@ -1,0 +1,4 @@
+{
+  "killList": ["OneDrive", "Discord", "EpicWebHelper", "Chrome"],
+  "ignoreSignedByMicrosoft": true
+}

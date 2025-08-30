@@ -1,0 +1,10 @@
+{
+  "presets": {
+    "Balanced": { "EnableUltimatePerformance": false, "DisableGameDvr": true, "EnableHags": false },
+    "Competitive": { "EnableUltimatePerformance": true, "DisableGameDvr": true, "EnableHags": true }
+  },
+  "processes": {
+    "killList": ["OneDrive", "Discord", "EpicWebHelper", "Chrome"],
+    "ignoreSignedByMicrosoft": true
+  }
+}
